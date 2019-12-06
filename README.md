@@ -1,16 +1,15 @@
 # THunt 
 this is a basic app that i developed for my college event (treasure hunt)
  
-As soon as they start app and press ok after rule scroll a  timer will start.
+As soon as they start app and press ok(sword button) after reading scroll of rules a  timer will start.
 
-we have 7 places from the college campus and the riddles for each place is in the app .. these riddles will be generated in random order 
-for every user and after solving each riddle they have to go to that location where they will get '3 digits' (Ex 7,6,8) and combination of these 3 digits  is pin (Ex 687) which is randomly generated (for every user) after entering the right combination,they will get the next riddle.
-All riddles for generated in random order and pin of those riddles are also randomly generated.
+we have selected 7 places from the college campus and the riddles for each place is in the app .. these riddles will be generated in random order for every user and after solving each riddle they have to go to that location where they will get '3 digits' (Ex 7,6,8) and combination of these 3 digits  is pin (Ex 687) which is randomly generated (for every user) after entering the right combination,they will get the next riddle.
+All riddles are generated in random order and pin of those riddles are also randomly generated.
 After solving the first 7 riddles they all will get the same riddle that will lead them back to us.. then they have to try last combination.
 After entering the correct pin of the last riddle timer will stop.
 
 
-
+Riddles & digits are given below :-
 
 first pin is a combination of "1,4,6"
 
